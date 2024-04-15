@@ -1,0 +1,23 @@
+{
+  "name": "skysleamwork33",
+  "version": "1.0.0",
+  "description": "TEA322",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v6954662fdsf/work33.git"
+  },
+  "dependencies": {
+    "skysleamwork3": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v6954662fdsf/work33/issues"
+  },
+  "homepage": "https://github.com/v6954662fdsf/work33#readme"
+}
